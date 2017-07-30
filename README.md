@@ -5,7 +5,7 @@ New Testament (27 books) available.
 
 Read Bible, Download Android/Desktop Apps
 
-http://freebiblesindia.com/bible/guj/ (Coming soon)
+http://freebiblesindia.com/bible/guj/
 
 http://www.gujaratibhasha.com/
 
