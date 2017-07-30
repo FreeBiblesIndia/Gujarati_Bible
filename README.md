@@ -1,7 +1,7 @@
 # Gujarati_Bible
 Gujarati Bible (CC by SA)
 
-New Testament (27 books) available.
+Full Bible (66 books) available now.
 
 Read Bible, Download Android/Desktop Apps
 
