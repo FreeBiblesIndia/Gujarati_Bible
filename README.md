@@ -1,4 +1,7 @@
 # Gujarati_Bible
+
+![icon](https://github.com/FreeBiblesIndia/Gujarati_Bible/blob/master/icons/icon.png?raw=true)
+
 Gujarati Bible (CC by SA)
 
 Full Bible (66 books) available now.
